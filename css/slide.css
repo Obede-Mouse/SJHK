@@ -8,7 +8,8 @@ body{
  .slide{
     width: 100%;
     height: 50%;
-    display: flex;
+    display: ;
+    overflow: auto;
 }
 .rowtext{
   
@@ -19,7 +20,7 @@ body{
     
 }
 .carousel-item h1{
-    color: #df6b24;
+    color: orange;
     font-weight: bold;
     margin-bottom: 30px;
     margin-left: 50px;
