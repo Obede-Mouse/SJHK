@@ -23,7 +23,7 @@ body{
     color: orange;
     font-weight: bold;
     margin-bottom: 30px;
-    margin-left: 20px;
+    margin-left: 10px;
     top: 150px;
     font-size: 33px;
    
@@ -33,7 +33,7 @@ body{
 .carousel-item p{
     color: white;
     margin:40px 0 50px;
-    left: 20;
+    left: 0;
     font-size: 15px;
     font-weight: bold ;
     margin-left: 20px;
