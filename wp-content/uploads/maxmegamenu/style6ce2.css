@@ -12,7 +12,7 @@
   bottom: auto;
   box-sizing: border-box;
   clip: auto;
-  color:green;
+  color:forestgreen;
   display: block;
   float: none;
   font-family: inherit;
@@ -57,7 +57,7 @@
   }
 }
 #mega-menu-wrap-primary.mega-keyboard-navigation .mega-menu-toggle:focus, #mega-menu-wrap-primary.mega-keyboard-navigation .mega-toggle-block:focus, #mega-menu-wrap-primary.mega-keyboard-navigation .mega-toggle-block a:focus, #mega-menu-wrap-primary.mega-keyboard-navigation .mega-toggle-block .mega-search input[type=text]:focus, #mega-menu-wrap-primary.mega-keyboard-navigation .mega-toggle-block button.mega-toggle-animated:focus, #mega-menu-wrap-primary.mega-keyboard-navigation #mega-menu-primary a:focus, #mega-menu-wrap-primary.mega-keyboard-navigation #mega-menu-primary input:focus, #mega-menu-wrap-primary.mega-keyboard-navigation #mega-menu-primary li.mega-menu-item a.mega-menu-link:focus {
-  outline: 3px solid #109cde;
+  outline: 3px solid orangered;
   outline-offset: -3px;
 }
 #mega-menu-wrap-primary.mega-keyboard-navigation .mega-toggle-block button.mega-toggle-animated:focus {
